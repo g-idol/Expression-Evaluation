@@ -1,12 +1,11 @@
+// Written by Ikshita Gupta
+//This program evaluates the value of the infix expression
+//Also it handles the exception cases in which it displays the respective error
 
 package expression_evaluation;
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.StringTokenizer;
-
-// Written by Ikshita Gupta
-//This program evaluates the value of the infix expression
-//Also it handles the exception cases in which it displays the respective error
 
 public class ExpressionEvaluation {
    public static void main(String[] args) {
